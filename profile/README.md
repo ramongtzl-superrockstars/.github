@@ -1,6 +1,6 @@
 # Super Rockstars
 
-**Free AI tools for real estate agents, in English and Spanish.** Built by **Ramon Gutierrez, MBA**, REALTOR® in Langley, BC, and host of the free **[AI Mastermind](https://growth-and-wealth-ai.ca/?src=github-org)**.
+**Free AI tools for real estate agents, in English and Spanish.** Built by **Ramon Gutierrez, MBA**, REALTOR® in Langley & Vancouver, BC, and host of the free **[AI Mastermind](https://growth-and-wealth-ai.ca/?src=github-org)**.
 
 AI drafts. You review and send. Everything here is built on a **Second Brain**: one folder of plain files that Claude reads before it answers, so it works from your real business instead of guessing.
 
@@ -20,7 +20,7 @@ AI drafts. You review and send. Everything here is built on a **Second Brain**: 
 
 ### En español
 
-**Herramientas de IA gratis para agentes inmobiliarios, en español e inglés.** Las hace **Ramon Gutierrez, MBA**, REALTOR® en Langley, BC, anfitrión del **[AI Mastermind](https://growth-and-wealth-ai.ca/es/?src=github-org)** gratuito.
+**Herramientas de IA gratis para agentes inmobiliarios, en español e inglés.** Las hace **Ramon Gutierrez, MBA**, REALTOR® en Langley y Vancouver, BC, anfitrión del **[AI Mastermind](https://growth-and-wealth-ai.ca/es/?src=github-org)** gratuito.
 
 Empieza con las [skills de Claude para agentes](https://github.com/ramongtzl-superrockstars/superstars-real-estate-skills): arman tu Second Brain y tu back office con IA. Después sigue el camino: **[AI Mastermind](https://growth-and-wealth-ai.ca/es/?src=github-org)** (gratis) → **[Plataforma IA](https://growth-and-wealth-superstars.ca/es/automation.html?src=github-org)** → **[Superstars Multiplier](https://growth-and-wealth-superstars.ca/es/?src=github-org)**.
 
